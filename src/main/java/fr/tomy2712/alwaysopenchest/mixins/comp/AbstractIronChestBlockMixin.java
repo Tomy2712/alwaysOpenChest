@@ -1,4 +1,4 @@
-package fr.tomy2712.alwaysopenchest.mixins;
+package fr.tomy2712.alwaysopenchest.mixins.comp;
 
 import net.minecraft.core.BlockPos;
 

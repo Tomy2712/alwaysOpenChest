@@ -157,6 +157,10 @@ dependencies {
     annotationProcessor 'org.spongepowered:mixin:0.8.5:processor'
 
     implementation fg.deobf("curse.maven:iron-chests-228756:${ironchests_versioncode}")
+
+    implementation fg.deobf("curse.maven:shetiphiancore-71738:${shetiphiancore_versioncode}")
+    implementation fg.deobf("curse.maven:enderchests-363535:${enderchests_versioncode}")
+
 }
 
 // This block of code expands all declared replace properties in the specified resource targets.
