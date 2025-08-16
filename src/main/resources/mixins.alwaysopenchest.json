@@ -1,0 +1,12 @@
+{
+  "required": true,
+  "package": "fr.tomy2712.alwaysopenchest.mixins",
+  "compatibilityLevel": "JAVA_17",
+  "mixins": [
+    "ChestBlockMixin",
+    "EnderChestBlockMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
