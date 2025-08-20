@@ -80,6 +80,13 @@ ordering="AFTER"
 side="BOTH"
 
 [[dependencies.${mod_id}]]
+modId="ironshulkerbox"
+mandatory=false
+versionRange="[1.20.1,)"
+ordering="AFTER"
+side="BOTH"
+
+[[dependencies.${mod_id}]]
 modId="shetiphiancore"
 mandatory=false
 versionRange="[1.20.1,)"

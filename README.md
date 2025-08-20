@@ -13,14 +13,12 @@ Always Open Chest is a utility mod for Minecraft that improves gameplay by allow
 *   **Shulker Box support:** Open Shulker Boxes even when blocked.
 *   **Mods compatibility:**
     *   **Iron Chest compatibility:** Improve accessibility for Iron Chests from the mod of ProgWML6.
+    *   **Iron Shulker Boxes support:** Add the compatibility for Iron Shulker Boxes from the mod of ProgWML6.
     *   **EnderChests compatibility:** Ensure seamless opening and interaction with Ender Chests from the mod of shetiphian.
 
 ## Benefits
-
 *   Eliminates frustration caused by decorative blocks or cats sitting on chests.
 *   Simplifies storage organization in compact or stacked chest setups.
 
 ## Planned Features
-
-*   **Iron Shulker Boxes support:** Add the compatibility for Iron Shulker Boxes from the mod of ProgWML6.
 *   **Custom requests:** Additional features can be added upon request.
