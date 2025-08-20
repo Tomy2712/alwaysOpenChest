@@ -3,10 +3,11 @@
   "package": "fr.tomy2712.alwaysopenchest.mixins",
   "compatibilityLevel": "JAVA_17",
   "mixins": [
-    "comp.AbstractIronChestBlockMixin",
-    "comp.BlockEnderChestMixin",
     "ChestBlockMixin",
-    "EnderChestBlockMixin"
+    "EnderChestBlockMixin",
+    "ShulkerBoxBlockMixin",
+    "comp.AbstractIronChestBlockMixin",
+    "comp.BlockEnderChestMixin"
   ],
   "injectors": {
     "defaultRequire": 1
